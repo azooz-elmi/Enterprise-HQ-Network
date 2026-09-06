@@ -497,3 +497,11 @@ Network Engineering & Cybersecurity Portfolio Project
 ---
 
 > This project is a lab simulation created for educational and portfolio purposes using Cisco Packet Tracer.
+
+## Copyright
+
+© 2026 Abdulaziz Farah Elmi. All rights reserved.
+
+This project is published for portfolio and educational viewing purposes only.
+
+Reuse, redistribution, modification, or submission of this project as another person's own work is not permitted without prior permission from the author.
